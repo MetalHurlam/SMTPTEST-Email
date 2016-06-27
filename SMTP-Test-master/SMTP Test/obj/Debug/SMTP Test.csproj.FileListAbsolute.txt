@@ -1,0 +1,16 @@
+c:\users\tpengel\documents\visual studio 2015\Projects\SMTP Test\SMTP Test\bin\Debug\SMTP Test.exe.config
+c:\users\tpengel\documents\visual studio 2015\Projects\SMTP Test\SMTP Test\bin\Debug\SMTP Test.exe
+c:\users\tpengel\documents\visual studio 2015\Projects\SMTP Test\SMTP Test\bin\Debug\SMTP Test.pdb
+c:\users\tpengel\documents\visual studio 2015\Projects\SMTP Test\SMTP Test\obj\Debug\SMTP Test.csprojResolveAssemblyReference.cache
+c:\users\tpengel\documents\visual studio 2015\Projects\SMTP Test\SMTP Test\obj\Debug\SMTP_Test.Form1.resources
+c:\users\tpengel\documents\visual studio 2015\Projects\SMTP Test\SMTP Test\obj\Debug\SMTP_Test.Properties.Resources.resources
+c:\users\tpengel\documents\visual studio 2015\Projects\SMTP Test\SMTP Test\obj\Debug\SMTP Test.csproj.GenerateResource.Cache
+c:\users\tpengel\documents\visual studio 2015\Projects\SMTP Test\SMTP Test\obj\Debug\SMTP Test.exe
+c:\users\tpengel\documents\visual studio 2015\Projects\SMTP Test\SMTP Test\obj\Debug\SMTP Test.pdb
+C:\Users\tpengel\Documents\Visual Studio 2015\Projects\SMTP Test\SMTP Test\bin\Debug\SMTP Test.exe.manifest
+C:\Users\tpengel\Documents\Visual Studio 2015\Projects\SMTP Test\SMTP Test\bin\Debug\SMTP Test.application
+C:\Users\tpengel\Documents\Visual Studio 2015\Projects\SMTP Test\SMTP Test\obj\Debug\SMTP Test.exe.manifest
+C:\Users\tpengel\Documents\Visual Studio 2015\Projects\SMTP Test\SMTP Test\obj\Debug\SMTP Test.application
+C:\Users\tpengel\Downloads\SMTP-Test-master\SMTP-Test-master\SMTP Test\bin\Debug\SMTP Test.exe.config
+C:\Users\tpengel\Downloads\SMTP-Test-master\SMTP-Test-master\SMTP Test\obj\Debug\SMTP Test.exe
+C:\Users\tpengel\Downloads\SMTP-Test-master\SMTP-Test-master\SMTP Test\obj\Debug\SMTP Test.pdb
